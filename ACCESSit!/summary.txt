@@ -1,9 +1,0 @@
-Summary for /www/javadecompilers/app/public/data/27.02.17/9e6decefd1b789b205564474de102250/Jar.jar
-Decompiled with CFR 0_118
-
-
-Helper.TaskDownloader
-----------------------------
-
-call()
-  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 23[SIMPLE_IF_TAKEN]
